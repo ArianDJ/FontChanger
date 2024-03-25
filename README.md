@@ -12,17 +12,20 @@ This is a project that allows you to change the font of text elements on a webpa
 [Press here to have a look at all the fonts.](./fontList.txt)
 In the [fontList.txt](./fontList.txt) are at the moment 316 font names, I do not know if I will add more in the future.
 
-## Diffrent versions
+## Q&A
 
-❗BOTH OF THESE VERSIONS ARE UNIVERSAL, BUT I DEVELOPED THEM FOR DISCORD NEW FONTS, BECAUSE OF THE VIDEO OF No Text To Speech❗
+<details><summary>Do you need to install modules, not only for the Python script, but for every script?</summary> No, the scripts provided don't need extra modules. But they do use specific commands and tools that might not be installed by default on your computer.
 
-### Python version
+For instance:
 
-The Python version works in apps/programs aswell. Thereto it's more complex. I tried to make it as open-sourced as possible, so you can read it and understand how it works.
+The Shell Script (Bash) needs wmctrl and xdotool.
+The Ruby script also requires wmctrl and xdotool.
+Both the Java and C# scripts depend on wmctrl and xdotool.
+Similarly, the C++ script relies on wmctrl and xdotool.
+These commands are usually available on Linux systems, but you might need to install them separately on Windows or other platforms. Make sure to have these tools installed and accessible on your system for the scripts to work properly.</details>
 
-### JavaScript version
+<details><summary>Is it against the TOS of sites/apps?</summary>No, it's not illegal or against the TOS of sites/apps normally, except if you have sites like Discord, they do not like modification in their system, so probaly (I'm not sure) then it is against the TOS of Discord, but for other sites, make sure to check their TOS. </details>
 
-The JavaScript version only works for sites. It's way easier.
 
 Examples:
 🚧WORK IN PROGRESS🚧
