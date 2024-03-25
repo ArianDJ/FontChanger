@@ -14,17 +14,19 @@ In the [fontList.txt](./fontList.txt) are at the moment 316 font names, I do not
 
 ## Q&A
 
-<details><summary>Do you need to install modules, not only for the Python script, but for every script?</summary> No, the scripts provided don't need extra modules. But they do use specific commands and tools that might not be installed by default on your computer.
+<details><summary>Do you need to install modules, not only for the Python script, but for every script?</summary> 
+  No, the scripts provided don't need extra modules. But they do use specific commands and tools that might not be installed by default on your computer.
 
 For instance:
 
-The Shell Script (Bash) needs wmctrl and xdotool.
-The Ruby script also requires wmctrl and xdotool.
-Both the Java and C# scripts depend on wmctrl and xdotool.
-Similarly, the C++ script relies on wmctrl and xdotool.
+The Shell Script (Bash) needs `wmctrl`  and `xdotool`.
+The Ruby script also requires `wmctrl` and `xdotool`.
+Both the Java and C# scripts depend on `wmctrl` and `xdotool`.
+Similarly, the C++ script relies on `wmctrl` and `xdotool`.
 These commands are usually available on Linux systems, but you might need to install them separately on Windows or other platforms. Make sure to have these tools installed and accessible on your system for the scripts to work properly.</details>
 
-<details><summary>Is it against the TOS of sites/apps?</summary>No, it's not illegal or against the TOS of sites/apps normally, except if you have sites like Discord, they do not like modification in their system, so probaly (I'm not sure) then it is against the TOS of Discord, but for other sites, make sure to check their TOS. </details>
+<details><summary>Is it against the TOS of sites/apps?</summary>
+  No, it's not illegal or against the TOS of sites/apps normally, except if you have sites like Discord, they do not like modification in their system, so probaly (I'm not sure) then it is against the TOS of Discord, but for other sites, make sure to check their TOS. </details>
 
 
 Examples:
