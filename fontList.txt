@@ -250,3 +250,72 @@ Webdings CE
 Wingdings CE
 Wingdings 2 CE
 Wingdings 3 CE
+Abadi MT Condensed Light
+Albertus Extra Bold
+Albertus Medium
+Antique Olive
+Bazooka
+Book Antiqua
+Bookman Old Style
+Boulder
+Calisto MT
+Calligrapher
+Century Gothic
+Century Schoolbook
+Cezanne
+CG Omega
+CG Times
+Charlesworth
+Chaucer
+Clarendon Condensed
+Comic Sans MS
+Copperplate Gothic Bold
+Copperplate Gothic Light
+Cornerstone
+Coronet
+Courier
+Courier New
+Cuckoo
+Dauphin
+Denmark
+Fransiscan
+Garamond
+Geneva
+Haettenschweiler
+Heather
+Helvetica
+Herald
+Impact
+Jester
+Letter Gothic
+Lithograph
+Lithograph Light
+Long Island
+Lucida Handwriting
+Lucida Sans
+Marigold
+Market
+Matisse ITC
+MS LineDraw
+News GothicMT
+Old Century
+Pegasus
+Pickwick
+Poster
+Pythagoras
+Sceptre
+Sherwood
+Signboard
+Socket
+Steamer
+Storybook
+Subway
+Technical
+Teletype
+Times
+Times New Roman PS
+Tristan
+Tubular
+Unicorn
+Univers Condensed
+Vagabond
