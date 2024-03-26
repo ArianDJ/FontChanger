@@ -3,14 +3,14 @@
 This is a project that allows you to change the font of text elements on a webpage. You can use it to experiment with different fonts and see how they look on your website.
 
 ## Usage
-
-1. Fill in one of the fonts in the [fontList.txt](./fontList.txt)
-2. Execute the script
+ 
+1. Execute the script
+2. Fill in one of the fonts in the [fontList.txt](./fontList.txt)
 
 ## Fonts:
 
 [Press here to have a look at all the fonts.](./fontList.txt)
-In the [fontList.txt](./fontList.txt) are at the moment 316 font names, I do not know if I will add more in the future.
+In the [fontList.txt](./fontList.txt) are at the moment 452 font names, I do not know if I will add more in the future.
 
 ## Q&A
 
@@ -19,10 +19,7 @@ In the [fontList.txt](./fontList.txt) are at the moment 316 font names, I do not
 
 For instance:
 
-The Shell Script (Bash) needs `wmctrl`  and `xdotool`.
-The Ruby script also requires `wmctrl` and `xdotool`.
-Both the Java and C# scripts depend on `wmctrl` and `xdotool`.
-Similarly, the C++ script relies on `wmctrl` and `xdotool`.
+Shell (Bash), Ruby, Java, C# and C++ all need `wmctrl`  and `xdotool`.
 These commands are usually available on Linux systems, but you might need to install them separately on Windows or other platforms. Make sure to have these tools installed and accessible on your system for the scripts to work properly.</details>
 
 <details><summary>Is it against the TOS of sites/apps?</summary>
