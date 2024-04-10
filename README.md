@@ -1,5 +1,7 @@
 # Font Changer
 
+# IMPORTANT ANNOUNCEMENT: WE WILL ADD THOUSANDS OF WORKING FONTS, AND REMOVE NOT-WORKING FONTS, BECAUSE NOW, SOME OF THE FONTS DO NOT WORK. 
+
 This is a project that allows you to change the font of text elements on a webpage. You can use it to experiment with different fonts and see how they look on your website.
 **❝68747470733a2f2f6576696c2d75706c6f61642d706167652e7469696e792e73697465, malum website, hex❞**
 
